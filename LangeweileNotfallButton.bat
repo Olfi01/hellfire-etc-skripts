@@ -1,0 +1,1 @@
+shutdown /s /t 60 /c "Der Computer hat keinen Bock mehr auf Unterricht. Er schaltet sich nun ab, da er alles schon kann."
